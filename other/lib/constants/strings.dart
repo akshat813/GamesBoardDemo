@@ -1,0 +1,1 @@
+const String userLoggedIn = "USER_LOGGED_IN";
